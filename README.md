@@ -17,24 +17,24 @@ Now Steve wanted a little more reserch for his parents, to expand the dataset an
 In this challenge, I refactored, the earlier script to produce more efficient code to analyze the entire stock market.
 
 ## Results
-### Performence Between 2017 & 2018(All Stock Analysis)
-- Following is the output  tables results from Allstock analysis:
+### Performence Between 2017 & 2018
+- Following is the output  tables for Year 2017 & 2018:
 
   ![](Resources/AllStockAnalysis2017Table.png)![](Resources/AllStockAnalysis2018Table.PNG)
   
- - Following is the performence between 2017 & 2018 worksheets according to All stock analysis script:
+ - Below message box images shows the performence between 2017 & 2018 worksheets according to All stock analysis script:
 
   ![](Resources/VBA_Challenge_2017.PNG)![](Resources/VBA_Challenge_2018.PNG)
 
- - We can say there is no significant difference in time to run between 2018 & 2017 worksheet because we wre using same code.
+ - We can say there is no significant difference in time to run code years 2018 & 2017 worksheet because we wre using the same code.
 
 ### Performence Between original script & refacterd script
-- When refactering the script I added 3 output arrays to represent
+- When refactering the script I added 3 output arrays to represent:
   - tickerVolume
   - tickerStartingPrice
   - tickerEndingPrice
  - And use those arrays to calculate volume,starting price and ending price for each ticker.
- - Below image shows the part of the coding which I added mainly to  refactered code.
+ - Below image shows the part of the coding which I added mainly when refactoring the code.
 
  ![](Resources/refactcode.png)
  
