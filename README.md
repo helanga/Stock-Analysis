@@ -1,2 +1,6 @@
-# Stock-Analysis
-Used VBA script to analyze stocks and finally refactored the code to analyze All stocks.
+# Stock-Analysis(Refacterd code) using VBA
+## Overview of the Project
+### Background of the project
+### Purpose of the Project
+jjjj
+## Results
