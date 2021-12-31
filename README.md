@@ -44,6 +44,7 @@
        
        
  ## Summery
+ 
  ### Advantages and disadvantages of refactoring code in general:
  #### Advantages
  Maintainability :After refactoring,the code is fresher,easier to understand or read,less complex and easier to maintain.
