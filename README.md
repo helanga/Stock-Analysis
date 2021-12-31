@@ -23,4 +23,9 @@
  - And use those arrays to calculate volume,starting price and ending price for each ticker.
  - Below image shows the part of the coding which I added mainly to  refactered code.
 
- ![]()
+ ![](Resources/refactcode.png)
+ 
+ - Finally If we consider the time between refactered script & All Stock Analysis Stock it has significant different.
+ 
+ ![](Resources/VBA_Challenge_2017.PNG)![]()
+ 
