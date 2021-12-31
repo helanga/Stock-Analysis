@@ -30,7 +30,7 @@ In this challenge, I refactored, the earlier script to produce more efficient co
 
   ![](Resources/VBA_Challenge_2017.PNG)![](Resources/VBA_Challenge_2018.PNG)
 
- - We can say there is no significant difference in time to run code years 2018 & 2017 worksheet because we are using the same code.
+ - Based on the above timings,my conclusion is there is no significant difference in time to run the code for the year 208 & 2017 worksheets.
 
 ### Performance between original script & refactored script
 - When refactoring the script I added 3 output arrays to represent:
@@ -70,6 +70,6 @@ In this challenge, I refactored, the earlier script to produce more efficient co
  
  ### Pros and Cons of this project:
  If considering Refactored All Stock Analysis script it's performence increased significantly. So now Steve can use this workbook to analyze entire stock market and he can easily maintain it now with Arrays.
- Disadvantages, this process is time consuming, and additionally, there is always room for improvement so you do not if you can improve the performance more and how you can improve the performance more. 
+ This process is time consuming, and additionally, there is always room for improvement so you do not if you can improve the performance more and how you can improve the performance more. 
  
  
