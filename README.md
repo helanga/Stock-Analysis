@@ -1,7 +1,19 @@
 # Stock-Analysis(Refacterd code) using VBA
 ## Overview of the Project
+VBA is often used in the financial industry, so I worked with stock data in this module. 
+
 ### Background of the project
+In this Project I'm helping Steve who just graduated with his finance degree.Steve's parents are passionate about green energy they believe fossil fuels will get used up there will be more and more dependability on alternative energy production.So his parents didn't do more reserch and decided to put all their money on "DAQO Energy Corp", DAQO's ticker symbol is DQ.
+So for his parents he wants to analyze the data set for DQ's analysis.Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded.The yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about Daqo's stock, and Steve wants to know how DQ performed in 2018. After Analyzing the DQ he realized that it  dropped over 63% in 2018,so then he started to analyze all the other stocks' Daily volume and return.
+
+Finaly, I added buttons to analyze the entire dataset for different years with timer to calculate performance of the code.
+Now Steve wanted a little more reserch for his parents, to expand the dataset and include the entire stock market over the last few years.
+
+
+
 ### Purpose of the Project
+
+In this challenge, I refactored, the earlier script to produce more efficient code to analyze the entire stock market.
 
 ## Results
 ### Performence Between 2017 & 2018(All Stock Analysis)
