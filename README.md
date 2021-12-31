@@ -41,5 +41,17 @@
     - Time to run code before refactoring for year 2018
  
        ![](Resources/AllStockAnalysis2018time.PNG)
- - 
+       
+       
+ ## Summery
+ ### Advantages and disadvantages of refactoring code in general:
+ #### Advantages
+ Maintainability :After refactoring,the code is fresher,easier to understand or read,less complex and easier to maintain.
+ #### Disadvantages
+ Disadvantages of code refactoring :time consuming:You may have no idea how much time it may take to complete the process. It may also land you into a situation where you have no idea where to go.
+ 
+ ### Considering this project :
+ If considering Refactored All Stock Analysis script it's performence increase significantly.So now Steve can use this workbook to analyse entire stock market and he can easily maintain it now with Arrays.
+ Disadvantages,yes it's time consuming and we don't have exact idea what else we can do to improve performence and is it enogh the things which we did.
+ 
  
