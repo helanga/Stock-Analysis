@@ -1,14 +1,10 @@
 # Stock-Analysis(Refacterd code) using VBA
 ## Overview of the Project
-VBA is often used in the financial industry, so I worked with stock data in this module. 
 
 ### Background of the project
-In this Project I'm helping Steve who just graduated with his finance degree. Steve's parents are passionate about green energy. They believe fossil fuels will get used up and as time passes, there will be more and more dependability on alternative energy. As a result, his parents didn't do more reserch and decided to put all their money on "DAQO Energy Corp." DAQO's ticker symbol is DQ.
+Steve recently graduated with his finance degree and he wants to help his parents to take right decision on their invesment.Steve parents are passionate about green energy and they believe fossil fuels will get used up and as time passes,they will also be more and more dependebility on alternative enegy.So, Stevs parents have decided to put all their money on "DAQO Energy COrp.(DAQO's ticker symbol is DQ) without proper research.
 
-So, for his parents, he wants to analyze the data set for DQ's analysis. Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about Daqo's stock, and Steve wants to know how DQ performed in 2018. After analyzing the DQ he realized that it  dropped over 63% in 2018, so then he started to analyze all the other stocks' daily volume and return.
-
-Finaly, I added buttons to analyze the entire data set for different years with a timer to calculate the performance of the code.
-Now Steve wanted a little more research for his parents, so he could expand the dataset and include the entire stock market over the last few years.
+On behalf of his parents,he wants to analyze the data set for DQ's before move forward with the decision.So,Steve wants to find the total daily volume and yearly return for DQ stock.
 
 
 
