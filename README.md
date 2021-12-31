@@ -28,18 +28,18 @@
  - Finally If we consider the time between refactered script & All Stock Analysis Stock it has significant different.
    - Time to run refacterd code for year 2017
    
- ![](Resources/VBA_Challenge_2017.PNG)![]()          
+      ![](Resources/VBA_Challenge_2017.PNG)![]()          
   
-   - Time to run code before refactoring for year 2017
+    - Time to run code before refactoring for year 2017
    
- ![](Resources/AllStockAnalysis2017time.png)
+      ![](Resources/AllStockAnalysis2017time.png)
  
-  - Time to run refacterd code for year 2018
+    - Time to run refacterd code for year 2018
 
- ![](Resources/VBA_Challenge_2018.PNG)
+      ![](Resources/VBA_Challenge_2018.PNG)
  
- - Time to run code before refactoring for year 2018
+    - Time to run code before refactoring for year 2018
  
- ![](Resources/AllStockAnalysis2018time.PNG)
+       ![](Resources/AllStockAnalysis2018time.PNG)
  - 
  
