@@ -6,6 +6,14 @@ Steve recently graduated with his finance degree and he wants to help his parent
 
 On behalf of his parents,he wants to analyze the data set for DQ's before move forward with the decision.So,Steve wants to find the total daily volume and yearly return for DQ stock.
 
+Daily volume is the total number of shares traded throughout the day;it measures how actively a stock being traded.The yearly return is precentage difference in price from beginning to ene of the year.Steve's parents are starting to pester him about DAQO's stock,and Steve wants to know how DQ performed in 2018.
+
+I am assisting Steve on analyzing the DQ data realized that it dropped over 63% in 2018.Since DQ is not good move to take,I analyzed all other stock's daily volume and return for year 2018.
+
+Further,to provide more user friendliness,I added buttons to analyze the entire data set for different years (2017 and 2018).Also added timer to calculate the performence of code.
+
+Additionally,Steve wants to expand his reserch by expanding the dataset and include the entire stock market over the last few years.
+
 
 
 ### Purpose of the Project
