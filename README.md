@@ -6,7 +6,9 @@
 ## Results
 ### Perfermence Between 2017 & 2018
 - If we consider performence between 2017 & 2018 worksheets according to All stock analysis script:
+- 
 ![](Resources/VBA_Challenge_2017)![](Resources/VBA_Challenge_2018)
+
 - Output Tables:
 ![](Resources/AllStockAnalysis2017Table.png)![](Resources/AllStockAnalysis2018Table.PNG)
 
