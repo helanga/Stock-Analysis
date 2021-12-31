@@ -64,7 +64,7 @@ In this challenge, I refactored, the earlier script to produce more efficient co
  #### Disadvantages
  Disadvantages of code refactoring :time consuming:You may have no idea how much time it may take to complete the process. It may also land you in a situation where you have no idea where to go.
  
- ### Considering this project :
+ ### Pros and Cons of this project:
  If considering Refactored All Stock Analysis script it's performence increased significantly. So now Steve can use this workbook to analyze entire stock market and he can easily maintain it now with Arrays.
  Disadvantages, this process is time consuming, and additionally, there is always room for improvement so you do not if you can improve the performance more and how you can improve the performance more. 
  
