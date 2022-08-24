@@ -1,4 +1,4 @@
-# Stock-Analysis(Refacterd code) using VBA
+# Stock-Analysis
 ## Overview of the Project
 
 ### Background of the project
